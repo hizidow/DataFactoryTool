@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zzd>
+	<TESTTABLE1 flag ="0">
+		<TESTCO3>
+			<PK></PK>
+			<FK></FK>
+			<fixValue></fixValue>
+			<FromValue></FromValue>
+			<ToValue></ToValue>
+			<RandomValue></RandomValue>
+			<RandomChineseValue></RandomChineseValue>
+		</TESTCO3>
+		<TESTCO2>
+			<PK></PK>
+			<FK></FK>
+			<fixValue></fixValue>
+			<FromValue></FromValue>
+			<ToValue></ToValue>
+			<RandomValue></RandomValue>
+			<RandomChineseValue></RandomChineseValue>
+		</TESTCO2>
+		<TESTCO1>
+			<PK></PK>
+			<FK></FK>
+			<fixValue></fixValue>
+			<FromValue></FromValue>
+			<ToValue></ToValue>
+			<RandomValue></RandomValue>
+			<RandomChineseValue></RandomChineseValue>
+		</TESTCO1>
+	</TESTTABLE1>
+	<TESTTABLE2 flag ="0">
+		<ZZZDCOL3>
+			<PK></PK>
+			<FK></FK>
+			<fixValue></fixValue>
+			<FromValue></FromValue>
+			<ToValue></ToValue>
+			<RandomValue></RandomValue>
+			<RandomChineseValue></RandomChineseValue>
+		</ZZZDCOL3>
+		<ZZDCOL2>
+			<PK></PK>
+			<FK></FK>
+			<fixValue></fixValue>
+			<FromValue></FromValue>
+			<ToValue></ToValue>
+			<RandomValue></RandomValue>
+			<RandomChineseValue></RandomChineseValue>
+		</ZZDCOL2>
+		<ZZDCOL1>
+			<PK></PK>
+			<FK></FK>
+			<fixValue></fixValue>
+			<FromValue></FromValue>
+			<ToValue></ToValue>
+			<RandomValue></RandomValue>
+			<RandomChineseValue></RandomChineseValue>
+		</ZZDCOL1>
+	</TESTTABLE2>
+</zzd>
